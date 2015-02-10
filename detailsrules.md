@@ -5,9 +5,9 @@ permalink: /detailsrules/
 ---
 
 Submissions:
-- We own the rights to use the image for WomEngineer's Day
-- You may use the logo or variation of the logo for your design
-- Email your design to womengineersday@gmail.com
+-   We own the rights to use the image for WomEngineer's Day
+-   You may use the logo or variation of the logo for your design
+-   Email your design to womengineersday@gmail.com
 
 Guidelines:
 - Design must be on the front/back of the shirt only (no sleeves)
