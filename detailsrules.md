@@ -3,7 +3,7 @@ layout: page
 title: Details & Rules
 permalink: /detailsrules/
 ---
-<h3Submissions:</h3>
+<h3>Submissions:</h3>
 
 <ul>
 <li> We own the rights to use the image for WomEngineer's Day </li>
@@ -30,18 +30,17 @@ permalink: /detailsrules/
 <li> Designs that don't comply with the guidelines will be rejected </li>
 <li> Disclaimer that we reserve the right to reject any design for any reason </li>
 </ul>
-</br>
-<p style="font: small-caps bold 30px Lucida Grande,Lucida Grande,sans-serif;">
-<b>Voting:</b>
-</p>
+
+<h3>Voting</h3>
+
 <ul>
 <li> Top 3 designs will be determined by having the most votes (shares, tweets, and +1's) </li>
 <li> WomEngineer's Day Planning Committee will decide on a winner from these 3 designs </li>
 </ul>
 </br>
-<p style="font: small-caps bold 30px Lucida Grande,Lucida Grande,sans-serif;">
-<b>Deadlines:</b>
-</p>
+
+<h3>Deadlines:</h3>
+
 <ul>
 <li> February 11th, 2015 - Design submission opens and voting begins </li>
 <li> March 11th, 2015 - Design submission and voting close at 11:59PM EST </li>
