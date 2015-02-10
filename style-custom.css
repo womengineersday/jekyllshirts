@@ -15,6 +15,11 @@
   }
 }
 
+.gallery img {
+  border: solid 1px #333;
+  margin: 15px;
+}
+
 @media (min-width: 225px) {
   .gallery p {
   	display: inline;
