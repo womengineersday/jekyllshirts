@@ -10,6 +10,7 @@ Submissions:
 <li> We own the rights to use the image for WomEngineer's Day </li>
 <li> You may use the logo or variation of the logo for your design </li>
 <li> Email your design to womengineersday@gmail.com </li>
+<li> Multiple submissions okay </li>
 </ul>
 </br>
 Guidelines:
