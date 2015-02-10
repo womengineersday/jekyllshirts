@@ -34,4 +34,4 @@ Voting:
 <li> Top 3 designs will be determined by having the most votes (likes, tweets, and +1's) </li>
 <li> WomEngineer's Day Planning Committee will decide on a winner from these 3 designs </li>
 </ul>
-<b><center>Good luck! and may the Best Shirt Win! </center></b>
+<b> Good luck! and may the Best Shirt Win! </b>
