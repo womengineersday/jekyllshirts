@@ -21,6 +21,10 @@
   }
 }
 
-.addthis_sharing_toolbox {
+.entry {
   text-align: center;
+}
+
+.entry img {
+  max-width: 500px;
 }
