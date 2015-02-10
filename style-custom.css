@@ -12,7 +12,7 @@
 }
 
 header p, header a {
-	color: #FFF;
+	color: #FFF !important;
 	font-family: 'Montserrat', sans-serif;;
 }
 .header-wrap header {
