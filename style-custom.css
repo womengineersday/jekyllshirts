@@ -1,11 +1,16 @@
 .gallery {
   	text-align: center;
   }
-  
+
+@media (min-width: 400px) {
   .gallery img {
-  	max-width: 200px;
+    width: auto;
+    height: 200px;
   }
-  
+}
+
+@media (min-width: 225px) {
   .gallery p {
   	display: inline;
   }
+}
