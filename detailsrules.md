@@ -5,7 +5,9 @@ permalink: /detailsrules/
 ---
 
 </br>
-Submissions:
+<p style="font:italic small-caps bold 30px georgia,garamond,serif;">
+<b>Submissions:</b>
+</p>
 <ul>
 <li> We own the rights to use the image for WomEngineer's Day </li>
 <li> You may use the logo or variation of the logo for your design </li>
