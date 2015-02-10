@@ -5,7 +5,7 @@ permalink: /detailsrules/
 ---
 
 </br>
-<p style="font:italic small-caps bold 30px georgia,garamond,serif;">
+<p style="font:small-caps bold 30px Lucida Grande,Lucida Grande,sans-serif;">
 <b>Submissions:</b>
 </p>
 <ul>
