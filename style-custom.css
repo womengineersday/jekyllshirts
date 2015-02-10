@@ -21,19 +21,11 @@
   }
 }
 
-.entry {
+.post {
   text-align: center;
 }
 
 .entry img {
   max-width: 500px;
-}
-
-.date {
-  text-align: center;
-}
-
-.addthis_sharing_toolbox {
-  text-align: center;
 }
 
