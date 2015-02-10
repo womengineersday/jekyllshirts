@@ -3,7 +3,12 @@ layout: page
 title: Details & Rules
 permalink: /detailsrules/
 ---
-<ul>
+<style>
+p{line-height: 120%}
+li{line-height: 140%}
+dd{line-height: 150%}
+</style>
+<dl><ul>
 Submissions:
 <li> We own the rights to use the image for WomEngineer's Day </li>
 <li> You may use the logo or variation of the logo for your design </li>
@@ -26,3 +31,4 @@ Voting:
 <li> Top 3 designs will be determined by having the most votes (likes, tweets, and +1's) </li>
 <li> WomEngineer's Day Planning Committee will decide on a winner from these 3 designs </li>
 </ul>
+</dl>
