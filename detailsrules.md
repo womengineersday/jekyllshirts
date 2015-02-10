@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Details & Rules
 permalink: /detailsrules/
 ---
 <p style="font:small-caps bold 30px Lucida Grande,Lucida Grande,sans-serif;">
