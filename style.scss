@@ -10,6 +10,13 @@
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
+/* Custom RULES */
+/**************/
+.page-title {
+  font-family: 'Lucida Grande', sans-serif;
+}
+
+/**************/
 /* BASE RULES */
 /**************/
 
@@ -43,10 +50,6 @@ h1, h2, h3, h4, h5, h6 {
   @include mobile {
     line-height: 1.4;
   }
-}
-
-h4, h5, h6 {
-  font-family: 'Lucida Grande', sans-serif;
 }
 
 h1 {
