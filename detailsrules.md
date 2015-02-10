@@ -3,29 +3,26 @@ layout: page
 title: Details & Rules
 permalink: /detailsrules/
 ---
-<p style="font:small-caps bold 30px Lucida Grande,Lucida Grande,sans-serif;">
-<b>Submissions:</b>
-</p>
+<h3Submissions:</h3>
+
 <ul>
 <li> We own the rights to use the image for WomEngineer's Day </li>
 <li> You may use the logo or variation of the logo for your design </li>
 <li> Email your design to womengineersday@gmail.com </li>
 <li> Multiple submissions okay </li>
 </ul>
-</br>
-<p style="font: small-caps bold 30px Lucida Grande,Lucida Grande,sans-serif;">
-<b>Guidelines:</b>
-</p>
+
+<h3>Guidelines:</h3>
+
 <ul>
 <li> Design must be on the front/back of the shirt only (no sleeves) </li>
 <li> Must incorporate "WomEngineer's Day" along with "2015" or the date of the event (which is April 11th) </li>
 <li> Designs limited to 3 colors </li>
 <li> Must provide fully vectored art (i.e. .ps, .eps, .pdf, .ai, .indd, and .cdr) </li>
 </ul>
-</br>
-<p style="font: small-caps bold 30px Lucida Grande,Lucida Grande,sans-serif;">
-<b>Rules:</b>
-</p>
+
+<h3>Rules:</h3>
+
 <ul>
 <li> Nothing controversial </li>
 <li> No designs that disparage another group </li>
