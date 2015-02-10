@@ -8,7 +8,7 @@ layout: default
 <div class="gallery">
   {% for post in site.posts %}
     <a href="{{ site.baseurl }}{{ post.url }}">{{ post.content }}</a>
-    {{post.image-url}}
+    {{post.title}}
   {% endfor %}
 </div>
 
