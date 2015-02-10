@@ -1,5 +1,9 @@
 //politely borrowed from: http://stackoverflow.com/questions/1533910/randomize-a-sequence-of-div-elements-with-jquery
 
+$('button').click(function() {
+  $(".gallery").randomize("", "a");
+});
+
 (function($) {
   
   $.fn.randomize = function(tree, childElem) {
