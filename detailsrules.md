@@ -4,8 +4,6 @@ title: Details & Rules
 permalink: /detailsrules/
 ---
 
-Details and Rules
-
 Submissions:
 - We own the rights to use the image for WomEngineer's Day
 - You may use the logo or variation of the logo for your design
