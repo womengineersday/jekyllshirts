@@ -10,10 +10,10 @@ dd{line-height: 150%}
 </style>
 <ul>
 Submissions:
-<dd><li> We own the rights to use the image for WomEngineer's Day </li>
+<dl><li> We own the rights to use the image for WomEngineer's Day </li>
 <li> You may use the logo or variation of the logo for your design </li>
 <li> Email your design to womengineersday@gmail.com </li>
-</dd></ul>
+</dl></ul>
 </br>
 Guidelines:
 <ul>
