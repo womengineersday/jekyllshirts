@@ -18,15 +18,15 @@ avatar: https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-prn2/v/t1.0-9/10888655
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble: 
-  email: 
-  facebook: 
+  email: womengineersday@gmail.com
+  facebook: http://www.facebook.com/womengineersday
   flickr: 
-  github: barryclark/jekyll-now
+  github: 
   instagram: 
   linkedin: 
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: jekyllrb
+  twitter: http://twitter.com/WomEngineersDay
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
 # Your disqus shortname, entering this will enable commenting on posts
