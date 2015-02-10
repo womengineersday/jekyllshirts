@@ -1,0 +1,14 @@
+/**************/
+/* CUSTOM RULES */
+/**************/
+.gallery {
+	text-align: center;
+}
+
+.gallery img {
+	max-width: 250px;
+}
+
+.gallery p {
+	display: inline;
+}
