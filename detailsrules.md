@@ -37,7 +37,6 @@ permalink: /detailsrules/
 <li> Top 3 designs will be determined by having the most votes (shares, tweets, and +1's) </li>
 <li> WomEngineer's Day Planning Committee will decide on a winner from these 3 designs </li>
 </ul>
-</br>
 
 <h3>Deadlines:</h3>
 
@@ -46,5 +45,5 @@ permalink: /detailsrules/
 <li> March 11th, 2015 - Design submission and voting close at 11:59PM EST </li>
 <li> March 13th, 2015 - Winning design chosen and the winner contacted for the next steps </li>
 </ul>
-</br>
+
 <h3> Good luck! and may the Best Shirt Win! </h3>
