@@ -2,10 +2,15 @@
 layout: default
 ---
 
+<head>
+  <link rel="canonical" href="http://womengineersday.com/jekyllshirts">
+  <meta property="og:url" content="http://womengineersday.com/jekyllshirts/{{page.title}}">
+</head>
+
 <article class="post">
   <!--<h1>{{ page.title }}</h1>-->
   <!-- Go to www.addthis.com/dashboard to customize your tools -->
-<div class="addthis_sharing_toolbox"></div>
+  <div class="addthis_sharing_toolbox"></div>
 
   <div class="entry">
     {{ content }}
@@ -15,6 +20,8 @@ layout: default
     Submitted on {{ page.date | date: "%B %e, %Y" }} by {{page.artist}}
   </div>
 
+  </br>  <!-- adding space between picture and sharing tool -->
+
   <!-- Go to www.addthis.com/dashboard to customize your tools -->
-<div class="addthis_sharing_toolbox"></div>
+  <div class="addthis_sharing_toolbox"></div>
 </article>
