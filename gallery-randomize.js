@@ -1,7 +1,6 @@
 //politely borrowed from: http://stackoverflow.com/questions/1533910/randomize-a-sequence-of-div-elements-with-jquery
 
 $( document ).ready(function() {
-    console.log( "ready!" );
     $(".gallery").randomize("", "a");
 });
 
