@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Details & Rules
 permalink: /detailsrules/
 ---
 
