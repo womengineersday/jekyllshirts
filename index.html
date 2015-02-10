@@ -2,14 +2,12 @@
 layout: default
 ---
 
-<div class="posts">
+<div class="gallery">
   {% for post in site.posts %}
     <!--<article class="post">    
       
       <div class="entry" style="width:50%">-->
-      <div class="gallery">
         <a href="{{ site.baseurl }}{{ post.url }}">{{ post.content | truncatewords:40}}</a>
-      </div>
       <!--</div>
       
     </article>-->
