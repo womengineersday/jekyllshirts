@@ -7,8 +7,6 @@ layout: default
 
 <div class="gallery">
   {% for post in site.posts %}
-    <div class="gallery-entry">
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.content }}</a>
-    </div>
+    <a href="{{ site.baseurl }}{{ post.url }}">{{ post.content }}</a>
   {% endfor %}
 </div>
