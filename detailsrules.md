@@ -4,10 +4,6 @@ title: Details & Rules
 permalink: /detailsrules/
 ---
 <p style="font:small-caps bold 30px Lucida Grande,Lucida Grande,sans-serif;">
-<b>Details & Rules </b>
-</p>
-</br>
-<p style="font:small-caps bold 30px Lucida Grande,Lucida Grande,sans-serif;">
 <b>Submissions:</b>
 </p>
 <ul>
