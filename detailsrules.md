@@ -15,8 +15,8 @@ permalink: /detailsrules/
 <li> Multiple submissions okay </li>
 </ul>
 </br>
-<p style="font:bold small-caps bold 30px Lucida Grande,Lucida Grande,sans-serif;">
-Guidelines:
+<p style="font: small-caps bold 30px Lucida Grande,Lucida Grande,sans-serif;">
+<b>Guidelines:</b>
 </p>
 <ul>
 <li> Design must be on the front/back of the shirt only (no sleeves) </li>
@@ -25,8 +25,8 @@ Guidelines:
 <li> Must provide fully vectored art (i.e. .ps, .eps, .pdf, .ai, .indd, and .cdr) </li>
 </ul>
 </br>
-<p style="font:bold small-caps bold 30px Lucida Grande,Lucida Grande,sans-serif;">
-Rules:
+<p style="font: small-caps bold 30px Lucida Grande,Lucida Grande,sans-serif;">
+<b>Rules:</b>
 </p>
 <ul>
 <li> Nothing controversial </li>
@@ -36,16 +36,16 @@ Rules:
 <li> Disclaimer that we reserve the right to reject any design for any reason </li>
 </ul>
 </br>
-<p style="font:bold small-caps bold 30px Lucida Grande,Lucida Grande,sans-serif;">
-Voting:
+<p style="font: small-caps bold 30px Lucida Grande,Lucida Grande,sans-serif;">
+<b>Voting:</b>
 </p>
 <ul>
 <li> Top 3 designs will be determined by having the most votes (shares, tweets, and +1's) </li>
 <li> WomEngineer's Day Planning Committee will decide on a winner from these 3 designs </li>
 </ul>
 </br>
-<p style="font:bold small-caps bold 30px Lucida Grande,Lucida Grande,sans-serif;">
-Deadlines:
+<p style="font: small-caps bold 30px Lucida Grande,Lucida Grande,sans-serif;">
+<b>Deadlines:</b>
 </p>
 <ul>
 <li> February 11th, 2015 - Design submission opens and voting begins </li>
