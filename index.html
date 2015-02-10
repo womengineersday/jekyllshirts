@@ -2,14 +2,10 @@
 layout: default
 ---
 
+<h3 style="text-align: center">Click the submissions to vote!</h3>
+
 <div class="gallery">
   {% for post in site.posts %}
-    <!--<article class="post">    
-      
-      <div class="entry" style="width:50%">-->
-        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.content | truncatewords:40}}</a>
-      <!--</div>
-      
-    </article>-->
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.content }}</a>
   {% endfor %}
 </div>
