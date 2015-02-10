@@ -3,17 +3,13 @@ layout: page
 title: Details & Rules
 permalink: /detailsrules/
 ---
-<style>
-p{line-height: 120%}
-li{line-height: 140%}
-dd{line-height: 150%}
-</style>
-<ul>
+
 Submissions:
-<dl><li> We own the rights to use the image for WomEngineer's Day </li>
+<ul>
+<li> We own the rights to use the image for WomEngineer's Day </li>
 <li> You may use the logo or variation of the logo for your design </li>
 <li> Email your design to womengineersday@gmail.com </li>
-</dl></ul>
+</ul>
 </br>
 Guidelines:
 <ul>
