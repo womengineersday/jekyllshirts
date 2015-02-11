@@ -15,15 +15,20 @@ h1, h2, h3, h4, h5, h6 {
 	border-bottom: 2px solid #4C4D4F;
 }
 
-header a {
-	color: #FFF !important;
-	font-family: 'Montserrat', sans-serif;
-	text-decoration: underline;
-}
-
 header .site-description {
 	color: #FFF !important;
 	font-family: 'Montserrat', sans-serif;
+}
+
+header a {
+	color: #FFF !important;
+	font-family: 'Montserrat', sans-serif;
+}
+
+@media (max-width: 400px) {
+  header a {
+  	text-decoration: underline;
+  }
 }
 
 .header-wrap header {
