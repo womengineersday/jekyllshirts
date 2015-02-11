@@ -27,7 +27,7 @@ permalink: /detailsrules/
 -   You must ensure they aren't breaking anyone's copyright or trademark    
 -   Designs that defame a group will be rejected
 -   Designs that do not comply with the guidelines will be rejected    
--   Disclaimer that we reserve the right to reject any design for any reason    
+-   We reserve the right to reject any design for any reason    
  
 
 ###Voting 
