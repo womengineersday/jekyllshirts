@@ -4,12 +4,16 @@ layout: default
 
 <article class="post">
   <h3>Share, Tweet, and +1 to vote for this submission!</h3>
-  <div class="addthis_toolbox addthis_default_style addthis_32x32_style">
-	<a class="addthis_button_facebook"></a>
-	<a class="addthis_button_twitter"></a>
-	<a class="addthis_button_google_plusone_badge"></a>
-	<a class="addthis_counter addthis_bubble_style"></a>
-</div>
+  
+  <div class="addthis_toolbox addthis_default_style addthis_32x32_style"
+    addthis:url="http://womengineersday.com">
+    <a class="addthis_counter_facebook"></a>
+    <a class="addthis_counter_twitter"></a>
+    <a class="addthis_button_google_plusone"></a> 
+  </div>
+  
+  <p>{{site.baseurl}}{{page.url}}</p>
+  
   <div class="submission">
    <img src="{{page.image-url}}" alt="{{page.title}}"></img>
   </div>
