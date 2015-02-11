@@ -5,12 +5,20 @@ layout: default
 <article class="post">
   <h3>Share, Tweet, and +1 to vote for this submission!</h3>
 
-  <div class="social-likes" data-url="http://womengineersday.com/tshirts{{page.url}}">
-    <div class="facebook" title="Share link on Facebook">Facebook</div>
-    <div class="twitter" title="Share link on Twitter">Twitter</div>
-    <div class="plusone" title="Share link on Google+">Google+</div>
+  <div class="social-likes-wrapper">
+    <div class="social-likes" data-url="{{site.fullurl}}{{page.url}}">
+      <a class="button button-prev-submission" href="">
+        &lArr; Previous Submission
+      </a>
+      <div class="facebook" title="Share link on Facebook">Facebook</div>
+      <div class="twitter" title="Share link on Twitter">Twitter</div>
+      <div class="plusone" title="Share link on Google+">Google+</div>
+      <a class="button button-next-submission" href="">
+        Next Submission &rArr;
+      </a>
+    </div>
   </div>
-  
+
   <div class="submission">
    <img src="{{page.image-url}}" alt="{{page.title}}"></img>
   </div>
@@ -19,11 +27,58 @@ layout: default
     Submitted on {{ page.date | date: "%B %e, %Y" }} by {{page.artist}}
   </div>
 
-  <div class="social-likes" data-url="{{site.fullurl}}{{page.url}}">
-    <div class="facebook" title="Share link on Facebook">Facebook</div>
-    <div class="twitter" title="Share link on Twitter">Twitter</div>
-    <div class="plusone" title="Share link on Google+">Google+</div>
+  <div class="social-likes-wrapper">
+    <div class="social-likes" data-url="{{site.fullurl}}{{page.url}}">
+      <a class="button button-prev-submission" href="">
+        &lArr; Previous Submission
+      </a>
+      <div class="facebook" title="Share link on Facebook">Facebook</div>
+      <div class="twitter" title="Share link on Twitter">Twitter</div>
+      <div class="plusone" title="Share link on Google+">Google+</div>
+      <a class="button button-next-submission" href="">
+        Next Submission &rArr;
+      </a>
+    </div>
   </div>
 
-
 </article>
+
+
+
+<script>
+{% capture posts %}
+[
+{% for post in site.posts %}
+{
+  "title"    : "{{ post.title }}",
+  "url"      : "{{ post.url }}",
+  "date"     : "{{ post.date | date: "%B %d, %Y" }}",
+  "content"  : "{{ post.content | escape }}"
+} {% if forloop.last %}{% else %},{% endif %}
+{% endfor %}
+]
+{% endcapture %}
+
+var posts = {{posts | strip_newlines}}
+var next = '';
+var prev = '';
+
+for(var i = 0; i < posts.length; i++) {
+  if(posts[i].url == "{{ page.url }}") {
+    if(i === 0) {                         //first post
+      next = posts[i+1].url;
+      prev = posts[posts.length-1].url;
+    } else if(i === posts.length-1){      //last post
+      next = posts[0].url;
+      prev = posts[i-1].url;
+    } else {                              //any other post
+      next = posts[i+1].url;
+      prev = posts[i-1].url;
+    }   
+  }
+}
+
+$(".button-prev-submission").attr("href", "{{site.baseurl}}" + prev);
+$(".button-next-submission").attr("href", "{{site.baseurl}}" + next);
+
+</script>

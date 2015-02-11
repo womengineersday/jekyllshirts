@@ -88,12 +88,23 @@ header a {
   border: solid 1px #333;
 }
 
+.post .social-likes-wrapper {
+  display: block;
+}
+
 .post .social-likes {
   background-color: #B9E1E2;
   padding: 5px;
-  margin: 15px;
+  margin: 5px;
   border: solid 1px #517C96;
   border-radius: 3px;
+}
+
+.post .button {
+  background-color: #F77F00;
+  padding: 5px;
+  border-radius: 2px;
+  color: #FFF;
 }
 
 /* Modifications to the counter on the home page */
