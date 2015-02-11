@@ -7,6 +7,7 @@ layout: default
 
 <div class="gallery">
   {% for post in site.posts %}
+  <div class="entry">
     <a href="{{ site.baseurl }}{{ post.url }}">
       <img src="{{ post.image-url }}" alt="{{post.title}}">
     </a>
@@ -16,6 +17,7 @@ layout: default
 		<div class="twitter" title="Share link on Twitter">Twitter</div>
 		<div class="plusone" title="Share link on Google+">Google+</div>
 	</div>
+  </div>
 	    
   {% endfor %}
 </div>
