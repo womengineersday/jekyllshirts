@@ -76,11 +76,12 @@ header a {
 }
 
 .addthis_native_toolbox {
-  background: #B9E1E2;
-  border: 1px solid #517C96;
+  background: #F0EDE4;
+  border: 1px solid #705550;
   border-radius: 2px;
   padding: 4px;
   width: 400px;
+  margin: 15px;
   margin-left: auto;
   margin-right: auto;
 }
