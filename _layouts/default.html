@@ -4,17 +4,8 @@
     <meta charset="utf-8" />
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
-
+    {% include social-meta.html %}
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
-
-    <meta name="author" content="{{ site.name }}" />
-    <meta name="description" content="{{ site.description }} - Vote for your favorite designs via shares, tweets, and +1's!">
-
-    <!-- Meta information for social media sharing -->
-    <meta property="og:url" content="{{ site.baseurl }}/{{page.title}}">
-    <meta property="og:image" content="{{page.image-url}}">
-    <meta property="og:title" content="WomEngineers Day T-Shirt Contest {{page.title}}">
-    <meta name="description" content="Vote for your favorite designs via shares, tweets, and +1's!">
 
     <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -28,9 +19,6 @@
     <link href='http://fonts.googleapis.com/css?family=Montserrat:700,400' rel='stylesheet' type='text/css'>
 
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-
 
   </head>
 

@@ -42,6 +42,18 @@ header a {
   	text-align: center;
   }
 
+.gallery .entry {
+  border: solid 5px #8A8C8F;
+  display: inline-block;
+  padding: 5px;
+  margin: 10px;
+}
+
+.social-likes_single-w {
+  display: block;
+  margin-top: -15px;
+}
+
 @media (max-width: 400px) {
   .gallery img {
     width: 90%;
@@ -56,8 +68,8 @@ header a {
 }
 
 .gallery img {
-  border: solid 1px #333;
   margin: 15px;
+  display: block;
 }
 
 @media (min-width: 225px) {

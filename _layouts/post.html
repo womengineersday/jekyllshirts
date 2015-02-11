@@ -20,9 +20,7 @@ layout: default
     Submitted on {{ page.date | date: "%B %e, %Y" }} by {{page.artist}}
   </div>
 
-  <p>http://womengineersday.com/tshirts{{page.url}}</p>
-
-  <div class="social-likes" data-url="http://womengineersday.com/tshirts{{page.url}}">
+  <div class="social-likes" data-url="{{site.fullurl}}{{page.url}}">
     <div class="facebook" title="Share link on Facebook">Facebook</div>
     <div class="twitter" title="Share link on Twitter">Twitter</div>
     <div class="plusone" title="Share link on Google+">Google+</div>
