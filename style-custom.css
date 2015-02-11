@@ -72,5 +72,5 @@ header a {
 
 .submission img {
   max-width: 80%;
+  border: solid 1px #333;
 }
-
