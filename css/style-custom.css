@@ -43,7 +43,7 @@ header a {
   }
 
 .gallery .entry {
-  border: solid 5px #006C93;
+  border: solid 5px #007aff;
   display: inline-block;
   padding: 5px;
   margin: 10px;
@@ -95,6 +95,30 @@ header a {
   border-radius: 3px;
 }
 
-.social-likes__widget .social-likes__widget_single {
-  height: 2.1em;
+/* Modifications to the counter on the home page */
+
+.social-likes__widget.social-likes__widget_single {
+  height: 2.2em;
+  background-color: #F77F00;
+  border-radius: 2px;
+  pointer-events: none; /*Disables the link*/
+  cursor: default; /*Disables the link*/
+}
+
+.social-likes__button.social-likes__button_single {
+  display: none;
+}
+
+.social-likes__counter.social-likes__counter_single {
+  padding-left: 10px;
+  font-weight: bold;
+  font-size: 1.8em;
+  margin-top: -5px;
+  pointer-events: none;
+  cursor: default;
+}
+
+.social-likes__counter.social-likes__counter_single a {
+  pointer-events: none;
+  cursor: default;
 }
