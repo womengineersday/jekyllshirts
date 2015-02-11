@@ -101,8 +101,8 @@ header a {
   height: 2.2em;
   background-color: #F77F00;
   border-radius: 2px;
-  pointer-events: none; /*Disables the link*/
-  cursor: default; /*Disables the link*/
+  /* pointer-events: none; /*Disables the link*/
+  /* cursor: default; /*Disables the link*/
 }
 
 .social-likes__button.social-likes__button_single {
