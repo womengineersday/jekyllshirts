@@ -9,7 +9,7 @@ permalink: /detailsrules/
 -   We own the rights to use the image for WomEngineer's Day    
 -   You may use the logo or variation of the logo for your design    
 -   Email your design to womengineersday@gmail.com    
--   Multiple submissions okay    
+-   You may submit multiple images
  
 
 ###Guidelines: 
@@ -23,10 +23,9 @@ permalink: /detailsrules/
 
 ###Rules: 
 
- 
--   Nothing controversial    
--   No designs that disparage another group    
--   Artist must ensure they aren't breaking anyone's copyright or trademark    
+
+-   You must ensure they aren't breaking anyone's copyright or trademark    
+-   Designs that defame a group will be rejected
 -   Designs that do not comply with the guidelines will be rejected    
 -   Disclaimer that we reserve the right to reject any design for any reason    
  
