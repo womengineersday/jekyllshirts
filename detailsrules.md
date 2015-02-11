@@ -2,6 +2,7 @@
 layout: page
 title: Details & Rules
 permalink: /detailsrules/
+image-url: http://womengineersday.com/tshirts/images/logo.jpeg
 ---
 ###Submissions
 
