@@ -43,7 +43,7 @@ header a {
   }
 
 .gallery .entry {
-  border: solid 5px #F0EDE4;
+  border: solid 5px #006C93;
   display: inline-block;
   padding: 5px;
   margin: 10px;
@@ -63,7 +63,7 @@ header a {
 @media (min-width: 400px) {
   .gallery img {
     width: auto;
-    height: 200px;
+    height: 180px;
   }
 }
 
@@ -90,8 +90,11 @@ header a {
 .post .social-likes {
   background-color: #B9E1E2;
   padding: 5px;
-  margin: 10px;
+  margin: 15px;
   border: solid 1px #517C96;
   border-radius: 3px;
 }
 
+.social-likes__widget .social-likes__widget_single {
+  height: 2.1em;
+}
