@@ -8,26 +8,25 @@ permalink: /detailsrules/
  
 -   We own the rights to use the image for WomEngineer's Day    
 -   You may use the logo or variation of the logo for your design    
--   Email your design to womengineersday@gmail.com    
--   Multiple submissions okay    
+-   You may email your design to womengineersday@gmail.com    
+-   You may submit multiple designs
  
 
 ###Guidelines: 
 
  
--   Design must be on the front/back of the shirt only (no sleeves)    
--   Must incorporate "WomEngineer's Day" along with "2015" or the date of the event (which is April 11th)    
--   Designs limited to 3 colors    
--   Must provide fully vectored art (i.e. .ps, .eps, .pdf, .ai, .indd, and .cdr)    
+-   Your design must be on the front/back of the shirt only (no sleeves)    
+-   You must incorporate "WomEngineer's Day" along with "2015" or the date of the event (which is April 11th)    
+-   Your designs is limited to 3 colors    
+-   You must provide vector images (i.e. .ps, .eps, .pdf, .ai, .indd, and .cdr)    
  
 
 ###Rules: 
 
- 
--   Nothing controversial    
--   No designs that disparage another group    
--   Artist must ensure they aren't breaking anyone's copyright or trademark    
--   Designs that don't comply with the guidelines will be rejected    
+
+-   You must ensure they aren't breaking anyone's copyright or trademark    
+-   Designs that defame a group will be rejected
+-   Designs that do not comply with the guidelines will be rejected    
 -   Disclaimer that we reserve the right to reject any design for any reason    
  
 
@@ -35,7 +34,7 @@ permalink: /detailsrules/
 
 
 -   Top 3 designs will be determined by having the most votes (shares, tweets, and +1's)    
--   WomEngineer's Day Planning Committee will decide on a winner from these 3 designs    
+-   The WomEngineer's Day Planning Committee will decide on a winner from the top 3 designs    
  
 
 ###Deadlines: 
@@ -46,4 +45,4 @@ permalink: /detailsrules/
 -   March 13th, 2015 - Winning design chosen and the winner contacted for the next steps    
  
 
-### Good luck! and may the Best Shirt Win!  
+### Good luck and may the Best Shirt Win!  
