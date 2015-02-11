@@ -75,4 +75,10 @@ header a {
   border: solid 1px #333;
 }
 
+.addthis_native_toolbox {
+  width: 400px;
+  margin-left: auto;
+  margin-right: atuo;
+}
+
 
