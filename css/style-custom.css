@@ -98,7 +98,7 @@ header a {
 /* Modifications to the counter on the home page */
 
 .social-likes__widget.social-likes__widget_single {
-  height: 2.2em;
+  /*height: 2.2em;*/
   background-color: #F77F00;
   border-radius: 2px;
   /* pointer-events: none; /*Disables the link*/
@@ -106,16 +106,19 @@ header a {
 }
 
 .social-likes__button.social-likes__button_single {
-  display: none;
+  /*display: none;*/
 }
 
 .social-likes__counter.social-likes__counter_single {
+  background-color: #F77F00;
+  border-radius: 2px;
   padding-left: 10px;
   font-weight: bold;
   font-size: 1.8em;
   margin-top: -5px;
   pointer-events: none;
   cursor: default;
+  margin-top: -10px;
 }
 
 .social-likes__counter.social-likes__counter_single a {
