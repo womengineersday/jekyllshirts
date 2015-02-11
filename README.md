@@ -20,7 +20,9 @@ artist: WomEngineersDay <!-- Modify this - i.e. "Submitted by [artist]" -->
 image-url: **http://imgur.com/abcdef** <!-- Modify this -->
 ---
 
-<!-- The following is optional. The template actual reads directly from the image-url set above, this is only really useful for previewing in GitHub. -->
+<!-- The following is optional. 
+The template actual reads directly from the image-url set above.
+So this is only really useful for previewing in GitHub. -->
 
 ![alt value](http://imgur.com/abcdef)
 ```
