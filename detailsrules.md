@@ -45,4 +45,4 @@ permalink: /detailsrules/
 -   March 13th, 2015 - Winning design chosen and the winner contacted for the next steps    
  
 
-### Good luck! and may the Best Shirt Win!  
+### Good luck and may the Best Shirt Win!  
