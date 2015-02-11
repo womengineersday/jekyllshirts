@@ -58,7 +58,7 @@ header p, header a {
   text-align: center;
 }
 
-.entry img {
-  max-width: 500px;
+.submission img {
+  max-width: 80%;
 }
 
