@@ -20,14 +20,18 @@
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style-custom.css" />
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/style.css" />
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/style-custom.css" />
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/social-likes_flat.css" />
+
+    <!-- Fonts -->
+    <link href='http://fonts.googleapis.com/css?family=Montserrat:700,400' rel='stylesheet' type='text/css'>
+
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-    <link href='http://fonts.googleapis.com/css?family=Montserrat:700,400' rel='stylesheet' type='text/css'>
-    <!-- <link href='http://fonts.googleapis.com/css?family=Roboto+Slab' rel='stylesheet' type='text/css'> -->
-    
+
+
   </head>
 
   <body>
@@ -61,11 +65,14 @@
 
     {% include analytics.html %}
     
-    <!-- Go to www.addthis.com/dashboard to customize your tools -->
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-549283531eb2f4fb" async="async"></script>
 
-    
-    <script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
+    <!-- jquery -->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+    <!-- Social Likes -->
+    <script src="{{site.baseurl}}/js/social-likes.min.js"></script>
+
+    <!-- Image randomizing script -->
     <script src="{{site.baseurl}}/js/gallery-randomize.js"></script>
   </body>
 </html>

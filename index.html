@@ -10,7 +10,13 @@ layout: default
     <a href="{{ site.baseurl }}{{ post.url }}">
       <img src="{{ post.image-url }}" alt="{{post.title}}">
     </a>
-    
+
+    <div class="social-likes social-likes_single" data-url="{{ site.baseurl }}{{ post.url }}" data-single-title="Share">
+		<div class="facebook" title="Share link on Facebook">Facebook</div>
+		<div class="twitter" title="Share link on Twitter">Twitter</div>
+		<div class="plusone" title="Share link on Google+">Google+</div>
+	</div>
+	    
   {% endfor %}
 </div>
 
