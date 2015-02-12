@@ -84,8 +84,10 @@ header a {
 }
 
 .submission img {
-  max-width: 800px;
+  max-width: 675px;
+  max-width: 85%;
   border: solid 1px #333;
+  margin: 20px;
 }
 
 .post .social-likes-wrapper {
@@ -100,12 +102,21 @@ header a {
   border-radius: 3px;
 }
 
-.post .button {
+.button-prev-submission, .button-next-submission {
   background-color: #F77F00;
   padding: 5px;
   border-radius: 2px;
   color: #FFF;
 }
+
+@media (max-width: 400px) {
+	.button-prev-submission .full-text, .button-next-submission .full-text {
+		display: none;
+	}	
+}
+
+
+
 
 /* Modifications to the counter on the home page */
 
