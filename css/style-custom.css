@@ -92,6 +92,7 @@ header a {
 
 .post .social-likes-wrapper {
   display: block;
+  text-align: center;
 }
 
 .post .social-likes {
