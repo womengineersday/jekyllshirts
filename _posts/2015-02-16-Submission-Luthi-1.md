@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Submission 001
+title: Submission Luthi-1
 artist: Katelyn Luthi
 image-url: http://i.imgur.com/fUhea8q.png
 ---
