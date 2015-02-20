@@ -22,8 +22,8 @@ image-url: http://womengineersday.com/tshirts/images/logo.jpeg
 - Your designs is limited to 3 colors.
 - You must provide vector images (i.e. .ps, .eps, .pdf, .ai, .indd, and .cdr).
 - You must ensure they aren't breaking anyone's copyright or trademark    
-- You may use or modify the logos below for your design.
-	- [Regular Logo]({{ site.baseurl }}/images/logo.jpeg), [Wide Logo]({{ site.baseurl }}/images/logo_wide.png)
+- You may use or modify the logos in the following directory for your design:
+	- [WomEngineers Day Logos](https://github.com/womengineersday/tshirts/tree/gh-pages/images/logos)
 
 ###Voting 
 - Top 3 designs will be determined by having the most votes (shares, tweets, and google share)    
