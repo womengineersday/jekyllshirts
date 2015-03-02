@@ -19,7 +19,7 @@ image-url: http://womengineersday.com/tshirts/images/logo.jpeg
 - We own the rights to use the image for WomEngineers Day     
 - Your design must be on the front/back of the shirt only (no sleeves).
 - You must incorporate "WomEngineers Day" along with "2015" or the date of the event (April 11, 2015).
-- Your designs is limited to 3 colors.
+- Your design is limited to 3 colors.
 - You must provide vector images (i.e. .ps, .eps, .pdf, .ai, .indd, and .cdr).
 - You must ensure they aren't breaking anyone's copyright or trademark    
 - You may use or modify the logos in the following directory for your design:
