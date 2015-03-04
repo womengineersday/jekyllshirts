@@ -45,7 +45,7 @@ url:
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: "/tshirts"
 
-fullurl: "http://www.womengineersday.com/tshirts"
+fullurl: "http://womengineersday.com/tshirts"
 
 #
 # !! You don't need to change any of the configuration flags below !!
