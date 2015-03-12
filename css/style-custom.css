@@ -1,6 +1,14 @@
 /**************/
 /* Custom RULES */
 /**************/
+.post .social-likes-wrapper {
+  display: none !important;
+}
+
+.social-likes_single-w {	
+  display: none !important;
+}
+
 .page-title {
   font-family: 'Lucida Grande', sans-serif;
 }
