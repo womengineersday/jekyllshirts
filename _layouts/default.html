@@ -88,5 +88,13 @@
 
     <!-- Image randomizing script -->
     <script src="{{site.baseurl}}/js/gallery-randomize.js"></script>
+    
+    <script>
+      $( document ).ready(function() {
+        $("*").unbind("click"); // Removes all click handlers added by javascript from every element
+	$("[onclick]").removeAttr("onclick"); // Finds all elements with an 'onclick' attribute, and removes that attribute
+      });
+    </script>
+
   </body>
 </html>

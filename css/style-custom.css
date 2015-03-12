@@ -1,12 +1,8 @@
 /**************/
 /* Custom RULES */
 /**************/
-.post .social-likes-wrapper {
-  display: none !important;
-}
-
-.social-likes_single-w {	
-  display: none !important;
+.social-likes_single.social-likes_opened {
+  display: none;
 }
 
 .page-title {
